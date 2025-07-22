@@ -1,0 +1,16 @@
+- Logistic Regression is a statistical technique that predicts the likelihood of events based on mathematical calculations
+
+- Probability of an entity belonging to a certain class is calculated using the mathematical formula of the sigmoid function - a function that looks like an inverted-S ( refer this website for more knowledge : https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/)
+
+The iris dataset is a classic beginner classification problem that classifies flowers into 3 classes based on 4 main features - sepal length , sepal width , petal length and petal width.
+
+The sigmoid function then takes these values and plots them onto a graph and filters out the values it matches the most to and returns it.
+
+FastAPI is a quick and easy way to deploy ML applications onto a server to recieve requests and give responses on the localhost.(Visit the official FastAPI Site for more documentation on the topic.)
+
+My learnings from this project : 
+
+1 - I got practice on core ML concepts while building this application.
+2 - I also built a FastAPI endpoint on my own using the simple FastAPI Setup.
+3 - Going forward , this app can be containerised using Docker so that you can view it on your local machine as well
+​
